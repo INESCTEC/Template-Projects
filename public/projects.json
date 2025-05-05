@@ -1,0 +1,217 @@
+[
+    {
+      "project_name": "Machine Learning Research",
+      "project_topic": "machine-learning",
+      "project_area": "Artificial Intelligence",
+      "project_description": "Cutting-edge machine learning research and applications.",
+      "project_url": "https://example.com/ml-research",
+      "top_repositories": [
+        {
+          "name": "ml-framework",
+          "url": "https://github.com/INESCTEC/ml-framework",
+          "description": "A comprehensive machine learning framework for research applications",
+          "stars": 245,
+          "forks": 68,
+          "is_fork": false,
+          "topics": [
+            "machine-learning",
+            "deep-learning",
+            "neural-networks",
+            "ai"
+          ],
+          "language": "Python",
+          "updated_at": "2025-04-01T12:30:45Z"
+        },
+        {
+          "name": "transformer-models",
+          "url": "https://github.com/INESCTEC/transformer-models",
+          "description": "Implementation of various transformer architectures for NLP tasks",
+          "stars": 189,
+          "forks": 43,
+          "is_fork": false,
+          "topics": [
+            "machine-learning",
+            "transformers",
+            "nlp",
+            "deep-learning"
+          ],
+          "language": "Python",
+          "updated_at": "2025-03-28T09:15:22Z"
+        },
+        {
+          "name": "computer-vision-toolkit",
+          "url": "https://github.com/INESCTEC/computer-vision-toolkit",
+          "description": "Tools and algorithms for computer vision research",
+          "stars": 132,
+          "forks": 37,
+          "is_fork": false,
+          "topics": [
+            "machine-learning",
+            "computer-vision",
+            "image-processing",
+            "object-detection"
+          ],
+          "language": "Python",
+          "updated_at": "2025-04-02T18:45:12Z"
+        }
+      ],
+      "total_stars": 566,
+      "total_repositories": 3,
+      "project_tags": [
+        "machine-learning",
+        "deep-learning",
+        "neural-networks",
+        "ai",
+        "transformers",
+        "nlp",
+        "computer-vision",
+        "image-processing",
+        "object-detection"
+      ],
+      "last_updated": "2025-05-01T10:15:30Z"
+    },
+    {
+      "project_name": "IoT Sensors Network",
+      "project_topic": "iot-sensors",
+      "project_area": "Internet of Things",
+      "project_description": "Advanced sensor networks for IoT applications.",
+      "project_url": "https://example.com/iot-sensors",
+      "top_repositories": [
+        {
+          "name": "iot-sensor-platform",
+          "url": "https://github.com/INESCTEC/iot-sensor-platform",
+          "description": "A platform for connecting and managing IoT sensors",
+          "stars": 178,
+          "forks": 52,
+          "is_fork": false,
+          "topics": [
+            "iot",
+            "iot-sensors",
+            "sensor-network",
+            "embedded-systems"
+          ],
+          "language": "C",
+          "updated_at": "2025-04-10T14:22:33Z"
+        },
+        {
+          "name": "sensor-data-analytics",
+          "url": "https://github.com/INESCTEC/sensor-data-analytics",
+          "description": "Analytics tools for processing and visualizing sensor data",
+          "stars": 145,
+          "forks": 38,
+          "is_fork": false,
+          "topics": [
+            "iot-sensors",
+            "data-analytics",
+            "data-visualization",
+            "time-series"
+          ],
+          "language": "JavaScript",
+          "updated_at": "2025-03-22T11:05:18Z"
+        },
+        {
+          "name": "wireless-sensor-protocols",
+          "url": "https://github.com/INESCTEC/wireless-sensor-protocols",
+          "description": "Implementation of various wireless protocols for sensor networks",
+          "stars": 98,
+          "forks": 29,
+          "is_fork": false,
+          "topics": [
+            "iot-sensors",
+            "wireless-protocols",
+            "mesh-networks",
+            "bluetooth-low-energy"
+          ],
+          "language": "C++",
+          "updated_at": "2025-04-15T09:30:45Z"
+        }
+      ],
+      "total_stars": 421,
+      "total_repositories": 3,
+      "project_tags": [
+        "iot",
+        "iot-sensors",
+        "sensor-network",
+        "embedded-systems",
+        "data-analytics",
+        "data-visualization",
+        "time-series",
+        "wireless-protocols",
+        "mesh-networks",
+        "bluetooth-low-energy"
+      ],
+      "last_updated": "2025-05-01T10:15:30Z"
+    },
+    {
+      "project_name": "Autonomous Robotics",
+      "project_topic": "robotics",
+      "project_area": "Robotics",
+      "project_description": "Research on autonomous robotic systems.",
+      "project_url": "https://example.com/robotics",
+      "top_repositories": [
+        {
+          "name": "robot-navigation",
+          "url": "https://github.com/INESCTEC/robot-navigation",
+          "description": "Algorithms for autonomous robot navigation and path planning",
+          "stars": 210,
+          "forks": 75,
+          "is_fork": false,
+          "topics": [
+            "robotics",
+            "autonomous-navigation",
+            "path-planning",
+            "slam"
+          ],
+          "language": "C++",
+          "updated_at": "2025-04-05T16:40:22Z"
+        },
+        {
+          "name": "robot-control-systems",
+          "url": "https://github.com/INESCTEC/robot-control-systems",
+          "description": "Control systems for various robotic platforms",
+          "stars": 156,
+          "forks": 48,
+          "is_fork": false,
+          "topics": [
+            "robotics",
+            "control-systems",
+            "real-time-systems",
+            "ros"
+          ],
+          "language": "C++",
+          "updated_at": "2025-03-18T13:25:10Z"
+        },
+        {
+          "name": "robot-vision",
+          "url": "https://github.com/INESCTEC/robot-vision",
+          "description": "Computer vision algorithms for robotics applications",
+          "stars": 134,
+          "forks": 42,
+          "is_fork": false,
+          "topics": [
+            "robotics",
+            "computer-vision",
+            "object-detection",
+            "depth-perception"
+          ],
+          "language": "Python",
+          "updated_at": "2025-04-12T10:15:30Z"
+        }
+      ],
+      "total_stars": 500,
+      "total_repositories": 3,
+      "project_tags": [
+        "robotics",
+        "autonomous-navigation",
+        "path-planning",
+        "slam",
+        "control-systems",
+        "real-time-systems",
+        "ros",
+        "computer-vision",
+        "object-detection",
+        "depth-perception"
+      ],
+      "last_updated": "2025-05-01T10:15:30Z"
+    }
+  ]
