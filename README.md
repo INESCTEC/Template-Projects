@@ -219,11 +219,3 @@ All components are in the `src/components` directory and can be customized:
 ## 📝 License
 
 MIT
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/your-username/github-projects-showcase/issues).
-
----
-
-Made with ❤️ by [Your Organization]
