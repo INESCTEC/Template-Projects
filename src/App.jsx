@@ -1,7 +1,6 @@
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route, Navigate } from "react-router-dom";
 import ProjectsPage from './pages/ProjectsPage';
-import HomePage from './pages/HomePage';
 import config from './config';
 
 const App = () => {
@@ -27,8 +26,7 @@ const App = () => {
   return (
     <Router>
       <Routes>
-        <Route path="/projects" element={<ProjectsPage />} />
-        <Route path="/" element={<HomePage />} />
+        <Route path="/" element={<ProjectsPage />} />
         <Route path="*" element={<Navigate to="/" replace />} />
       </Routes>
     </Router>

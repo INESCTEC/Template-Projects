@@ -50,17 +50,6 @@ const ScrollNavbar = () => {
         <ul className="flex items-center space-x-4 text-dark-blue-2 font-semibold text-lg">
           <li>
             <button
-              onClick={() => handleLinkClick('/')} 
-              className={`pb-2 ${
-                location.pathname === '/' ? 'border-b-2 border-light-blue-2' : ''
-              }`}
-            >
-              Home
-            </button>
-          </li>
-          <span className="text-dark-blue-2">|</span>
-          <li>
-            <button
               onClick={() => handleLinkClick('/projects')} 
               className={`pb-2 ${
                 location.pathname === '/projects' ? 'border-b-2 border-dark-blue-2' : ''
